@@ -1,0 +1,9 @@
+.blog-btn {
+    background-color: black;
+    border: 2px solid white;
+    color : white;
+    width : 8vw;
+    height: 4vh;
+    text-align : center;
+    border-radius: 4px;
+}

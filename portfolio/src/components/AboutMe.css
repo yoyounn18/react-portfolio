@@ -1,0 +1,103 @@
+.aboutme {
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+}
+
+.picture-about {
+    width: 50vw;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.picture-place {
+    width: 40vw;
+    height: 80vh;
+    background-color: gray;
+}
+
+.about-introduce {
+    width: 50vw;
+    height: 100vh;
+}
+
+.about-dummy {
+    widrh: 20vw;
+    height: 10vh;
+}
+
+.about-title {
+    width: 13vw;
+    height: 8vh;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.about-content {
+    width: 23vw;
+    height: 15vh;
+    font-size: 2rem;
+    border-left: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3vh;
+}
+
+.about-content2 {
+    width: 31vw;
+    height: 10vh;
+    font-size: 2rem;
+    border-left: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3vh;
+}
+.about-content3 {
+    width: 45vw;
+    height: 10vh;
+    font-size: 2rem;
+    border-left: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0vh;
+}
+
+.about-content4 {
+    width: 41vw;
+    height: 8vh;
+    font-size: 2rem;
+    border-left: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0vh;
+}
+
+.about-title2 {
+    width: 13vw;
+    height: 8vh;
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.about-title3 {
+    width: 13vw;
+    height: 8vh;
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

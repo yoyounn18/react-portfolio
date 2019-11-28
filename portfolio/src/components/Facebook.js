@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function Facebook() {
     return (
-            <i class="fab fa-facebook-square"></i>
+            {faCamera}
     )
 }
 

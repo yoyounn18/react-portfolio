@@ -1,6 +1,6 @@
 import React from 'react';
 import './ContactMe.css';
-import NameMessage from './NameMessage';
+
 
 const ContactMe = () => {
     return (

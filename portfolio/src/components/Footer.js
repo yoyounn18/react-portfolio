@@ -8,9 +8,6 @@ const Footer = () => {
             <div className="footer-copyright">
               Copyright 2019 © Kim Young Jo
             </div>
-            <div>
-                <Facebook />
-            </div>
         </div>
     )
 }
